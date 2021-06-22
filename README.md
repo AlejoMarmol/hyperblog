@@ -10,6 +10,7 @@ Un blog increíble para el curso de Git y Github de Platzi
 *Trucos muy locos del profesor
 *Las personalidades múltiples de Freddy
 *Creado por el increíble Platzi Team
+* Incluye ejemplos en Windows, Linux y Mac
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñando para cada ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve al curso [**a ver el curso**](http://https://platzi.com/clases/git-github/ "a ver el curso")
 
